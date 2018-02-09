@@ -1,8 +1,8 @@
 import random
 
-rock_count = 0.0
-scissor_count = 0.0
-paper_count = 0.0
+rock_occurence = 0
+scissor_occurence = 1
+paper_count = 0
 total = 0
 
 rock_chance = 0.0
